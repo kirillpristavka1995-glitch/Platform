@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Platform.Application/1.0.0": {
+        "dependencies": {
+          "Platform.Contracts": "1.0.0",
+          "Platform.Core": "1.0.0"
+        },
+        "runtime": {
+          "Platform.Application.dll": {}
+        }
+      },
+      "Platform.Contracts/1.0.0": {
+        "dependencies": {
+          "Platform.Core": "1.0.0"
+        },
+        "runtime": {
+          "Platform.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Platform.Core/1.0.0": {
+        "runtime": {
+          "Platform.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Platform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Platform.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Platform.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

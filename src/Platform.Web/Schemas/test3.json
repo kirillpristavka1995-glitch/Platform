@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "schemas/test3.json",
+  "title": "test3",
+  "type": "object",
+  "properties": {
+    "field": {
+      "type": "string"
+    },
+    "test": {
+      "$ref": "test.json"
+    }
+  },
+  "required": [
+    "field"
+  ],
+  "$defs": {}
+}

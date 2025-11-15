@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\bin\Debug\net9.0\Platform.Contracts.deps.json
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\bin\Debug\net9.0\Platform.Contracts.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\bin\Debug\net9.0\Platform.Contracts.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\bin\Debug\net9.0\Platform.Core.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\bin\Debug\net9.0\Platform.Core.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.B16E9B58.Up2Date
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\refint\Platform.Contracts.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\Platform.Contracts.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Contracts\obj\Debug\net9.0\ref\Platform.Contracts.dll

@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Application.deps.json
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Application.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Application.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Core.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Core.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.54CC008C.Up2Date
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\refint\Platform.Application.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\Platform.Application.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\obj\Debug\net9.0\ref\Platform.Application.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Contracts.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Application\bin\Debug\net9.0\Platform.Contracts.pdb
