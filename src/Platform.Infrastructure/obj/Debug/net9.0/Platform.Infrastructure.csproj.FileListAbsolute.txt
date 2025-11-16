@@ -17,3 +17,4 @@ C:\Users\User\RiderProjects\Platform\src\Platform.Infrastructure\obj\Debug\net9.
 C:\Users\User\RiderProjects\Platform\src\Platform.Infrastructure\obj\Debug\net9.0\ref\Platform.Infrastructure.dll
 C:\Users\User\RiderProjects\Platform\src\Platform.Infrastructure\bin\Debug\net9.0\Platform.Contracts.dll
 C:\Users\User\RiderProjects\Platform\src\Platform.Infrastructure\bin\Debug\net9.0\Platform.Contracts.pdb
+C:\Users\User\RiderProjects\Platform\src\Platform.Infrastructure\obj\Debug\net9.0\Platform.Infrastructure.sourcelink.json

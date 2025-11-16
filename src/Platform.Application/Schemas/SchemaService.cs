@@ -67,4 +67,12 @@ public class SchemaService : ISchemaService
 
         return schema.Properties ?? new Dictionary<string, JsonSchemaProperty>();
     }
+    
+    public async Task<JsonSchema> GetSchemaAsync(string schemaName)
+    {
+        var schema = await _repo.LoadAsync(schemaName)
+                     ?? throw new Exception($"Schema '{schemaName}' not found.");
+
+        return schema;
+    }
 }

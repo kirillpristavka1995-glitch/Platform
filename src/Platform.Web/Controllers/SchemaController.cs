@@ -44,4 +44,11 @@ public class SchemasController : ControllerBase
         var props = await _service.GetPropertiesAsync(schemaName);
         return Ok(props);
     }
+    
+    [HttpGet("{schemaName}")]
+    public async Task<IActionResult> GetSchema(string schemaName)
+    {
+        var schema = await _service.GetSchemaAsync(schemaName);
+        return Ok(schema); // сериализуется через JsonOptions
+    }
 }

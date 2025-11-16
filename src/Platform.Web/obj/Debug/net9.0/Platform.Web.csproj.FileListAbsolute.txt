@@ -43,3 +43,7 @@ C:\Users\User\RiderProjects\Platform\src\Platform.Web\obj\Debug\net9.0\Platform.
 C:\Users\User\RiderProjects\Platform\src\Platform.Web\obj\Debug\net9.0\Platform.Web.genruntimeconfig.cache
 C:\Users\User\RiderProjects\Platform\src\Platform.Web\obj\Debug\net9.0\ref\Platform.Web.dll
 C:\Users\User\RiderProjects\Platform\src\Platform.Web\bin\Debug\net9.0\Schemas\test.json
+C:\Users\User\RiderProjects\Platform\src\Platform.Web\bin\Debug\net9.0\Schemas\test1.json
+C:\Users\User\RiderProjects\Platform\src\Platform.Web\bin\Debug\net9.0\Schemas\test2.json
+C:\Users\User\RiderProjects\Platform\src\Platform.Web\bin\Debug\net9.0\Schemas\test3.json
+C:\Users\User\RiderProjects\Platform\src\Platform.Web\obj\Debug\net9.0\Platform.Web.sourcelink.json

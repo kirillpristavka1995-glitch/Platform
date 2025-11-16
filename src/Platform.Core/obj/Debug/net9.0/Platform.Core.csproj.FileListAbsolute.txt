@@ -9,3 +9,4 @@ C:\Users\User\RiderProjects\Platform\src\Platform.Core\obj\Debug\net9.0\Platform
 C:\Users\User\RiderProjects\Platform\src\Platform.Core\obj\Debug\net9.0\refint\Platform.Core.dll
 C:\Users\User\RiderProjects\Platform\src\Platform.Core\obj\Debug\net9.0\Platform.Core.pdb
 C:\Users\User\RiderProjects\Platform\src\Platform.Core\obj\Debug\net9.0\ref\Platform.Core.dll
+C:\Users\User\RiderProjects\Platform\src\Platform.Core\obj\Debug\net9.0\Platform.Core.sourcelink.json

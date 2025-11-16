@@ -9,4 +9,5 @@ public interface ISchemaService
     Task<JsonSchema> AddFieldAsync(string schemaName, AddFieldRequest request);
     Task<IEnumerable<string>> GetSchemasAsync();
     Task<Dictionary<string, JsonSchemaProperty>> GetPropertiesAsync(string schemaName);
+    Task<JsonSchema> GetSchemaAsync(string schemaName);
 }
